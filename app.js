@@ -1,10 +1,3 @@
-<!-- 
-Author: AUGUST Quinn
-Notes: 
-- Do not copy without permission.
-- This website provides a free and efficient obfuscator for JavaScript, enhancing code security.
--->
-
 let form = document.getElementById("form");
 
 let form2 = document.getElementById("form2");
